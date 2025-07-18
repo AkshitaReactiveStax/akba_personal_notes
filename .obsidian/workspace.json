@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S & Docker/Docker & Containerization.md",
+                "file": "K8S & Docker/kubernetes - K8S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker & Containerization"
+              "title": "kubernetes - K8S"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S & Docker/Docker & Containerization.md",
+                "file": "K8S & Docker/kubernetes - K8S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker & Containerization"
+              "title": "Backlinks for kubernetes - K8S"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S & Docker/Docker & Containerization.md",
+                "file": "K8S & Docker/kubernetes - K8S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker & Containerization"
+              "title": "Outgoing links from kubernetes - K8S"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8S & Docker/Docker & Containerization.md",
+                "file": "K8S & Docker/kubernetes - K8S.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker & Containerization"
+              "title": "Outline of kubernetes - K8S"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a736bfbe07ab196",
+  "active": "1219ea6ade21329c",
   "lastOpenFiles": [
-    "K8S & Docker/kubernetes - K8S.md",
     "K8S & Docker/Docker & Containerization.md",
+    "K8S & Docker/kubernetes - K8S.md",
     "angular/Node js.md",
     "testing/Testing - how it works  && how to write better tests.md",
     "Spring/spring - springboot tutorial.md",
